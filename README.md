@@ -9,8 +9,8 @@ La estructura del repositorio agrupa documentación transversal para estudiantes
 
 ## Cómo usar este espacio
 
-Cada equipo debe crear su carpeta dentro del curso correspondiente e incluir un `README.md` con propósito, alcance, integrantes y plan de hitos. La documentación viva se mantiene en `docs/` y el código o prototipo en `src/`.  
-Las ideas iniciales se registran en `ideas/registro_YYYY.md` indicando autor, problema, propuesta y estado. Cuando una idea evoluciona a proyecto, se mueve a la carpeta del curso correspondiente.
+Cada equipo debe crear su carpeta dentro del curso correspondiente e incluir un `README.md` con propósito, alcance, integrantes y plan de hitos. La documentación se deberá guardar en su en `docs/` y el código o prototipo en `src/`.  Dichas carpetas deben crearlas.
+Las ideas iniciales se registran en `ideas/registro_YYYY.md`. Cuando una idea evoluciona a proyecto, se mueve a la carpeta del curso correspondiente.
 
 ## Etapas de proyectos
   
@@ -18,7 +18,7 @@ En `documentacion/etapas.md` se describen los entregables y etapas de cada fase 
 
 ## Convenciones y buenas prácticas
 
-Usa Markdown con encabezados claros, tablas simples y nombres de archivo descriptivos (por ejemplo, `informe_`, `bitacora_`, `reporte_`). No suban archivos pesados ni datos personales; si un proyecto requiere datos, documenta la fuente y utiliza ejemplos mínimos o scripts de descarga.  
+Usa Markdown (.md) con encabezados claros, tablas simples y nombres de archivo descriptivos (por ejemplo, `informe_`, `bitacora_`, `reporte_`). No suban archivos pesados ni datos personales; si un proyecto requiere datos, documenta la fuente y utiliza ejemplos mínimos o scripts de descarga.  
 Las decisiones relevantes se documentan en la carpeta `docs/` del proyecto.
 
 ## Plantillas disponibles
