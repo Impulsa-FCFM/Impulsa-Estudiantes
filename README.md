@@ -4,7 +4,7 @@ Impulsa-Estudiantes es el repositorio público de la organización estudiantil *
 
 ## Cómo está organizado
 
-La estructura del repositorio agrupa documentación transversal para estudiantes, proyectos por curso y un registro de ideas. Además, incluye la carpeta `docs`, desde la cual se publica el portal web mediante GitHub Pages.
+La estructura del repositorio agrupa documentación transversal para estudiantes, proyectos por curso y un registro de ideas. Además, se incluye la carpeta `docs`, desde la cual se publica el portal web mediante GitHub Pages.
 
 
 ## Cómo usar este espacio
