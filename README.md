@@ -24,5 +24,3 @@ Las decisiones relevantes se documentan en la carpeta `docs/` del proyecto.
 ## Plantillas disponibles
 
 En `documentacion/plantillas/` se encontrarán formatos para informes, bitácoras y reportes de avance. Solo debes copiar la plantilla al proyecto, completarla y mantener los cambios versionados con commits pequeños y descriptivos.  
-
----
